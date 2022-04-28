@@ -1,2 +1,2 @@
 # Sapril Aryabtaman, D0220308
-webdevii
+Teknik Informatika Universitas Sulawesi Barat
